@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">Passionate developer and technical trainer on a mission to empower professionals and students through dynamic and interactive learning experiences.</h3>
+<h3 align="center">Passionate developer and technical trainer. I build stuff and teach people how to build stuff</h3>
 
 - 🌱 I’m currently learning **NextJs & Rust**
 - 💬 Ask me about **OSINT, Cyber Law, Cyber Crime, MERN Stack, Python, Java-Springboot, and QA (Selenium, Cucumber, Mocha, Chai-http, JUnit, etc).**
